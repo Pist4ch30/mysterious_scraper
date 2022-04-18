@@ -4,7 +4,7 @@ import requests, json
 
 
 def renew_connection():
-    api_key = "4153f9c7c11b4b4896447f225b6d55c7"
+
     with Controller.from_port(port=9051) as controller:
         controller.authenticate(password='jesuisla95')
         controller.signal(Signal.NEWNYM)
