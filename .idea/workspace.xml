@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20f108dc-f72e-415f-a330-8903bd4118c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/middlewares/ProxyMiddleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/middlewares/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/middlewares/scraper_api_middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/search.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/spiders/ifconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/spiders/images_serp_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/spiders/search_serp_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/google_serp_magic/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tor.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27lT6XojNEXaPT6gev5TSgGoQ0m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\melin\OneDrive\Bureau\PROJET DEV\Application\google_serp_magic\scraper\google_serp_magic\google_serp_magic" />
+      <recent name="C:\Users\melin\OneDrive\Bureau\PROJET DEV\Application\google_serp_magic\scraper\google_serp_magic\google_serp_magic\spiders" />
+      <recent name="C:\Users\melin\OneDrive\Bureau\PROJET DEV\Application\google_serp_magic\user_agents" />
+      <recent name="C:\Users\melin\OneDrive\Bureau\PROJET DEV\Application\google_serp_magic" />
+      <recent name="C:\Users\melin\OneDrive\Bureau\PROJET DEV\Application\google_serp_magic\scraper\google_serp_magic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ProxyMiddleware">
+    <configuration name="ProxyMiddleware" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="google_serp_magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/middlewares" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/middlewares/ProxyMiddleware.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_user_agents (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="google_serp_magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/user_agents" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/user_agents/random_user_agents.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_user_agents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="google_serp_magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/user_agents" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/user_agents/random_user_agents.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_serp_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="google_serp_magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scraper/google_serp_magic/google_serp_magic/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\melin\OneDrive\Bureau\PROJET DEV\Application\google_serp_magic\scraper\google_serp_magic\google_serp_magic\spiders\search_serp_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="google_serp_magic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ProxyMiddleware" />
+        <item itemvalue="Python.tor" />
+        <item itemvalue="Python.search_serp_spider" />
+        <item itemvalue="Python.random_user_agents (1)" />
+        <item itemvalue="Python.random_user_agents" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20f108dc-f72e-415f-a330-8903bd4118c9" name="Changes" comment="" />
+      <created>1649893497555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649893497555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
